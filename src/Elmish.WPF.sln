@@ -87,6 +87,8 @@ Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Threading.Core", "Samples\T
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Threading", "Samples\Threading\Threading.csproj", "{36565661-EA23-4965-97A0-2F4FDA0B4B67}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Samples.Syncfusion", "Samples.Syncfusion", "{33194EE9-6C27-4340-B1CE-F3E5017FE3E9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
