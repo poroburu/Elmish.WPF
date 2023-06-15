@@ -11,4 +11,9 @@
     <ProjectReference Include="..\Syncfusion.SingleCounter.Core\SingleCounter.Core.fsproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Syncfusion.SfInput.WPF" Version="21.2.10" />
+    <PackageReference Include="Syncfusion.Shared.WPF" Version="21.2.10" />
+  </ItemGroup>
+
 </Project>
